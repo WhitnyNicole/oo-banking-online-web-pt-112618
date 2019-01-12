@@ -29,5 +29,3 @@ attr_accessor :balance, :status
   end
 
 end
-
-end
